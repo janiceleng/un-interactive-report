@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": ";;AAOC,6BAA8B;EAC7B,SAAS,EAAE,IAAI",
+"sources": ["../sass/style-xlarge.scss"],
+"names": [],
+"file": "style-xlarge.css"
+}
